@@ -1,0 +1,1 @@
+RedisPoolFactory ------------------------ extends Pool<Jedis>
